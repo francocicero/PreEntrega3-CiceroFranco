@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    /*te regula los px de la pagina, es full necebox_contensraio*/
+    box-sizing: border-box;
+}
+
+.tituloh2{
+
+    font-size: 25px;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+}
+
+
+.contenedor-tarjeta img{
+    object-fit: cover;
+    height: 200px;
+    width: 200px;
+    display: flex;
+}
